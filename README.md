@@ -5,10 +5,10 @@
 ![Screenshot](./Skin_Preview.png)
 
 ## Install
-Download from github
-Place the the Dracula folder into your LCD Smartie Skins subfolder.
-Go to LCD Smartie setup > Miscellaneus > Select Dracula > Apply
-Enjoy
+Download from github.<br>
+Place the the Dracula folder into your LCD Smartie Skins subfolder. *\*Images folder is the same with Skins folder for old versions of LCD Smartie* <br>
+Go to LCD Smartie setup > Miscellaneus > Select Dracula > Apply<br>
+Enjoy<br>
 
 ## More on LCD Smartie
 
