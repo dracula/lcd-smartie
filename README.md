@@ -2,7 +2,7 @@
 
 > A dark theme for LCD Smartie
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Skin_Preview.png)
 
 ## Install
 
