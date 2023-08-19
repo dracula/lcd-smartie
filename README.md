@@ -1,4 +1,4 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [LCD Smartie]([https://foobar.com](https://github.com/stokie-ant/lcdsmartie-laz/releases))
 
 > A dark theme for LCD Smartie
 
@@ -6,7 +6,7 @@
 
 ## Install
 
-Place the comntents of the Dracula folder into your LCD Smartie Skins subfolder.
+Place the the Dracula folder into your LCD Smartie Skins subfolder.
 Go to LCD Smartie setup > Miscellaneus > Select Dracula > Apply
 Enjoy
 
@@ -14,9 +14,9 @@ Enjoy
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![Limbo](https://github.com/limbo666.png?size=100)](https://github.com/limbo666) | 
+| ---------------------------------------------------------------------------------------- | 
+| Limbo](https://github.com/limbo666)                                               | 
 
 ## Community
 
