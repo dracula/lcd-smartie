@@ -1,12 +1,14 @@
 # Dracula for [Foobar](https://foobar.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for LCD Smartie
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+Place the comntents of the Dracula folder into your LCD Smartie Skins subfolder.
+Go to LCD Smartie setup > Miscellaneus > Select Dracula > Apply
+Enjoy
 
 ## Team
 
