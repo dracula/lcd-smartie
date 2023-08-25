@@ -5,7 +5,7 @@
 ![Screenshot](./Skin_Preview.png)
 
 ## Install
-Download from github. Go to [release](https://github.com/limbo666/Dracula_for_LCD_Smartie/releases) to get a zipped package<br>
+Download from github. Go to [release](https://github.com/dracula/lcd-smartie/releases/tag/Release1) to get a zipped package<br>
 Unzip contents <br>
 Place the the Dracula folder into your LCD Smartie Skins subfolder. *\*Images folder is the same with Skins folder for old versions of LCD Smartie* <br>
 Go to LCD Smartie setup > Miscellaneus > Select Dracula > Apply<br>
@@ -14,7 +14,7 @@ Enjoy<br>
 ## More on LCD Smartie
 
 - [Forums](https://lcdsmartie.org) - Our forums for help and general discussions.
-- [GitHub](https://github.com/stokie-ant/lcdsmartie-laz) - The active dev branch of the program.
+- [GitHub](https://github.com/stokie-ant/lcdsmartie-laz) - The active dev branch of the program (Find the latest version here).
 - [SourceForge](https://lcdsmartie.sourceforge.net/) - Old pages and old dev branch [Freezed].
 
 
