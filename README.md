@@ -14,7 +14,7 @@ Enjoy<br>
 ## More on LCD Smartie
 
 - [Forums](https://lcdsmartie.org) - Our forums for help and general discussions.
-- [GitHub](https://github.com/stokie-ant/lcdsmartie-laz) - The active dev branch of the program (Find the latest version here).
+- [GitHub](https://github.com/stokie-ant/lcdsmartie-laz) - The active dev branch of the program [You can find the latest version here].
 - [SourceForge](https://lcdsmartie.sourceforge.net/) - Old pages and old dev branch [Freezed].
 
 
