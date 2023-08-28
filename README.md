@@ -1,16 +1,12 @@
-# Dracula for [LCD Smartie](<[https://foobar.com](https://github.com/stokie-ant/lcdsmartie-laz/releases)>)
+# Dracula for [LCD Smartie](https://lcdsmartie.sourceforge.net/)
 
-> A dark theme for LCD Smartie
+> A dark theme for [LCD Smartie](https://lcdsmartie.sourceforge.net/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-Download from github. Go to [release](https://github.com/dracula/lcd-smartie/releases/tag/Release1) to get a zipped package<br>
-Unzip contents <br>
-Place the the Dracula folder into your LCD Smartie Skins subfolder. _\*Images folder is the same with Skins folder for old versions of LCD Smartie_ <br>
-Go to LCD Smartie setup > Miscellaneus > Select Dracula > Apply<br>
-Enjoy<br>
+All instructions can be found at [draculatheme.com/lcd-smartie](https://draculatheme.com/lcd-smartie).
 
 ## More on LCD Smartie
 
